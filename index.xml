@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Warhammer Historical Trafalgar1" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer Historical Trafalgar.gstz" dataType="gamesystem" dataId="bd06-0e5b-9f3f-2afa" dataName="Warhammer Historical Trafalgar1" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Great Britain.catz" dataType="catalogue" dataId="3ece-0dc0-e165-931f" dataName="Great Britain" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Spain.catz" dataType="catalogue" dataId="c7b4-3fff-ef09-b055" dataName="Spain" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="France.catz" dataType="catalogue" dataId="ca69-e493-3c45-f005" dataName="France" dataBattleScribeVersion="2.03" dataRevision="4"/>
+  </dataIndexEntries>
+</dataIndex>
